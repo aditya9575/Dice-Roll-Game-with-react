@@ -1,6 +1,9 @@
 # Dice-Roll-Game-with-react
 This is a dice roll game made with react js using useState hook and fontawesome icons 
 
+To run this project -> Clone the master branch -> go to the dicerollapp folder -> open terminal -> run command -> npm install
+Then after run command -> npm run start
+
 **********************************************************************************************************************************************
 
 Detailed explanation of the project:->
